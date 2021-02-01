@@ -1,4 +1,4 @@
-# Lab8
+# Databse basics(java)
 compulsory
 
 I solved the compulsory part for 8th laboratory. 
